@@ -1,0 +1,12 @@
+[package]
+name = "rgeo-service"
+version = "0.1.0"
+authors = ["Eric Trombly <etrombly@yahoo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rgeo = "0.2.4"
+rocket = "0.4.6"
+rocket_contrib = "0.4.6"
